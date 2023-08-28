@@ -99,7 +99,7 @@ textarea {
     height:100vh;
     background: url('https://imgur.com/nlXWN5X.jpg');
     background-size:cover;
-    position:relative;
+    position:relative;  
 }
 /* text css above hero image*/
 .hero_title {
